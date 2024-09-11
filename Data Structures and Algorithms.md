@@ -21,3 +21,6 @@ Trees
 **4. Linked list**
    a. Single linked list
    b. Doubly linked list 
+
+## Hash keys and Hash Map 
+What is the use of this , Where can we use this to solve the problems ? 
